@@ -15,8 +15,7 @@ The **Distance Converter App** is a JavaFX-based distance conversion application
 ### Prerequisites
 To run the application, you will need the following:
 - **Java Development Kit (JDK)** (Version 11 or higher recommended).
-- **JavaFX SDK** (Already provided in the project directory).
-  
+- **JavaFX SDK**
 **Steps to Set Up JavaFX SDK:**
 1. Go to the official [Gluon JavaFX website](https://gluonhq.com/products/javafx/).
 2. Scroll down and download the JavaFX SDK for your operating system.
